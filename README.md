@@ -1,104 +1,21 @@
-<div align="center">
-```
-███████╗██╗     ██╗  ██╗██╗  ██╗ █████╗ ██████╗ ██████╗  █████╗  ██████╗ ██╗   ██╗██╗
-██╔════╝██║     ██║ ██╔╝██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║██║
-█████╗  ██║     █████╔╝ ███████║███████║██║  ██║██████╔╝███████║██║   ██║██║   ██║██║
-██╔══╝  ██║     ██╔═██╗ ██╔══██║██╔══██║██║  ██║██╔══██╗██╔══██║██║   ██║██║   ██║██║
-███████╗███████╗██║  ██╗██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║
-╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝
-```
-< AYMANE EL KHADRAOUI />
-Full Stack Web Developer · Beni Mellal, Morocco 🇲🇦
-Show Image
-Show Image
-Show Image
-</div>
+<h1 align="center">Hi 👋, I'm Aymane Elkhadraoui</h1>
+<h3 align="center">Full Stack Web Developer · Beni Mellal, Morocco</h3>
 
-> whoami
-bash$ cat about.json
-{
-  "name": "Aymane El Khadraoui",
-  "role": "Full Stack Developer",
-  "location": "Beni Mellal, Morocco",
-  "education": "YouCode / UM6P — Full Stack Web Dev (2025–2027)",
-  "languages": ["Arabic (Native)", "English (Intermediate)", "French (Intermediate)"],
-  "interests": ["Poker ♠", "Martial Arts 🥋", "Problem Solving 🧩"]
-}
+- 🔭 I’m currently working on [EcoLibrary](https://github.com/vito-ctrl/EcoLibrary.git)
 
-> skills --list
-<div align="center">
-🎨 Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-⚙️ Backend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-💻 Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🛠️ Tools & Platforms
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
+- 🌱 I’m currently learning **Java**
 
-> projects --featured
-🚛 TransportConnect — MERN Logistics Platform
+- 📫 How to reach me **aymane.elkhadraoui1@gmail.com**
 
-Multi-role web application for freight transport logistics
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aymane elkhadraoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane elkhadraoui" height="30" width="40" /></a>
+<a href="https://instagram.com/aymaaane_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aymaaane_2.0" height="30" width="40" /></a>
+</p>
 
-Stack: MongoDB · Express.js · React.js · Node.js · Socket.IO · Docker · Nginx · Jenkins
-FeatureDescription🔐 AuthSecure JWT authentication & authorization📦 ListingsTrip announcements & transport requests management⭐ ReviewsRating & evaluation system📊 DashboardAdmin panel with real-time statistics💬 ChatReal-time messaging with Socket.IO🐳 DevOpsContainerized deployment with Docker, PM2, Nginx, Jenkins
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-💼 Talentia PRO — Real-Time Recruitment Platform
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vito-ctrl&show_icons=true&locale=en&layout=compact" alt="vito-ctrl" /></p>
 
-Social & real-time features for a modern hiring platform
-
-Stack: Laravel · PHP · WebSockets · PostgreSQL · Stripe API · Laravel Socialite
-FeatureDescription💬 MessagingInstant messaging with WebSockets🔔 NotificationsReal-time notification system💳 PremiumStripe-powered subscription plans🔗 OAuthSocial login via Google & Facebook⚡ PerformancePostgreSQL optimization with caching & secure validation
-
-> education --timeline
-2025 ──────── NOW   🎓  Full Stack Web Dev         YouCode / UM6P
-2024 ──────── 2025  🎓  Full Stack JS Dev           École Numérique Ahmed Al Hansali
-2022 ──────── 2024  📚  BAC+2 Économie & Gestion   Université Sultan Moulay Slimane
-2021 ──────── 2022  🏫  Baccalauréat Sci. Physiques Bnou Hazem 2
-
-> activities --extracurricular
-
-🏛️ Vice-President — BDE ENAA · Event coordination & team management
-📖 Book Club — ENAA · Book discussions & literary analysis
-🏆 Competitive Programming Club — ENAA · Algorithmic problem solving & competitions
-
-
-> stats
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
-
-<div align="center">
-```bash
-$ echo "Thanks for visiting! Let's build something great together 🚀"
-```
-Show Image
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vito-ctrl&show_icons=true&locale=en" alt="vito-ctrl" /></p>
